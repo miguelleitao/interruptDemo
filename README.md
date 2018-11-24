@@ -1,2 +1,2 @@
 # interruptDemo
-Interrupt hanler demo under Linux
+Interrupt handler demo under Linux
